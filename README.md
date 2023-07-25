@@ -18,6 +18,13 @@
  
  </div>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,py,js,bootstrap,html,css,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,c,cpp,gitlab,latex,threejs,unreal,vim" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Bot1719744/Bot1719744/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Bot1719744/Bot1719744/blob/output/github-contribution-grid-snake.svg">
