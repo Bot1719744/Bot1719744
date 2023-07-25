@@ -1,3 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bot1719744.Bot1719744" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Frank!;" />
+</h1>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Bot1719744/Bot1719744/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Bot1719744/Bot1719744/blob/output/github-contribution-grid-snake.svg">
