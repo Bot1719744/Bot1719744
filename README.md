@@ -12,17 +12,17 @@
  
  🔭 I’m currently working on **a personal website**
  
- 🌱 I’m currently learning **Embedded system, MCU...**
+ 🌱 I’m currently learning **LLMs, MachEmbedded system, MCU...**
 
- 💬 Ask me about **Web design, game design, servers, javascript**
+ 💬 Ask me about **Machine Learning, Image Recognition, Web design, game design, servers, javascript**
  
  </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,py,js,bootstrap,html,css,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,c,cpp,gitlab,latex,threejs,unreal,vim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,threejs,unrealjs,bootstrap,html,css,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,ubuntu,anaconda,git,c,cpp,gitlab,latex,vim" />
 </div>
 
 <picture>
